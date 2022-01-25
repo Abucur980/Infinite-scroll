@@ -42,12 +42,13 @@ body {
 /* image container */
 
 .image-container {
-    margin: 1rem 30%;
+    margin: 2rem 30%;
 }
 
 .image-container img {
     width: 100%;
-    top: 1rem;
+    top: 2rem;
+    margin-bottom: 1rem;
 }
 
 /* media queries */
