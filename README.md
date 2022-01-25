@@ -1,2 +1,2 @@
-# Infinite-scroll
+# Infinity-scroll
 Infinite sroll with images
